@@ -117,8 +117,8 @@ This project is maintained by the following contributors:
 
 | Name | Student ID | Role |
 |---|---|---|
-| [Member 1] | [Student ID] | Data Collection and Documentation |
-| [Member 2] | [Student ID] | Data Collection and Metadata Structuring |
+| Shefira Marizcha | 202310370311027 | Data Collection and Documentation |
+| Ridha Dewi Safirah | 202310370311199 | Data Collection and Metadata Structuring |
 
 ## References
 
